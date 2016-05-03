@@ -1,0 +1,28 @@
+name: mateuszsonta
+favicon: null
+layout_spectrum: 0.3297444265335798
+typography_spectrum: 0.4771232260391116
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.41676844214089215
+  lightness: 0.3736584447324276
+  saturation: 0.15445819799788296
+  rhythmicContrast: 0.82662149425596
+purpose: []
